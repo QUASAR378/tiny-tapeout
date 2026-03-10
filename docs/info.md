@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The project entails a seven segment display that is toggled through and operated via toggle switches through a set of logic gates used to encrpyt the combination of switches.
 
 ## How to test
 
-Explain how to use your project
+The project can be tested by toggling the switches to observe the changes on the seven segmented display. There being an encrypted message, the display was designed to show a capital U with a dot at the side. Have fun decoding. :)
 
-## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
